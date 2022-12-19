@@ -35,18 +35,15 @@ If you need more language options ,please open a issue and let me know that
 - support telegram bot notify and control
 - more functions in control menu  
 
-for more detailed usages,plz see [WIKI](https://github.com/FranzKafkaYu/x-ui/wiki)
+for more detailed usages,plz see [WIKI](https://github.com/ava-ertebat/x-ui-xtls/wiki)
 
 # installation
 Make sure your system `bash` and `curl` and `network` are ready,here we go
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)
+This is for English Users,please use the following command to install English supported version: 
+bash <(curl -Ls https://raw.githubusercontent.com/ava-ertebat/x-ui-xtls/master/install_en.sh)
 ```  
-For English Users,please use the following command to install English supported version:  
-```
-bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install_en.sh)
-``` 
 
 ## shortcut  
 After Installation，you can input `x-ui`to enter control menu，current menu details：
@@ -90,8 +87,8 @@ please input a legal number[0-16]:
 
 # telegram
 
-[Channel](https://t.me/CoderfanBaby)  
-[Group](https://t.me/franzkafayu)
+[Message To Me l](https://t.me/AvA_ertebat_ahvaz)  
+[Chanel](https://t.me/+_MH1PfTB6NU3YmE0)
 
 # credits
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui)
